@@ -32,7 +32,7 @@
             "required": true
         },
         "BOT_USERNAME": {
-            "description": "يوزر البوت بدون ـ@ـ",
+            "description": "يوزر البوت ",
             "value": "",
             "required": true
         }
